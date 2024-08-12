@@ -6,7 +6,7 @@ function Info() {
         <div className='img'/>
         <h1>Mahfoud MEHALLI</h1>
         <h3>Frontend Developer</h3>
-        <h5>mahfoudmehalli12345@gmail.com</h5>
+        <h5>mahfoudbem.contact@gmail.com</h5>
         <div className="btn">
             <button className='email'>
                 <img src={require('../images/Icon.png')} alt="" />
